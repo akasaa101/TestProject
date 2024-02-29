@@ -2,7 +2,7 @@ repo_name: akasaa101/TestProject
 report_id: bf73091c2c76461176d35eada42f1138
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:32:12+00:00'
+timestamp: '2024-02-29T18:55:18+00:00'
 requested_by: SimoneLeomanni
 provider: github
 branch: main
@@ -170,7 +170,7 @@ tools:
   last_updated_by: amplication[bot]
   last_updated_on: 2023-01-12 14:24:43.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 4.0.2
   license: MIT
